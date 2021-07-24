@@ -1,6 +1,5 @@
 # MSI_public
 Evolutionary algorithms (evolutionary strategies) in Python.
-Codes only on demand.
 
 Covered topics:
 1. Evolutionary strategy: (1+1).
