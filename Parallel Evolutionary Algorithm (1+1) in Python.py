@@ -1,6 +1,5 @@
  # Code authors' usernames:
  # gabrielrdw20 
- # krzysztoftora
  # "\n"
  # Code in Python
  # "\n\n"
