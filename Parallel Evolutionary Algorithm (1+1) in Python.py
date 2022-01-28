@@ -1,4 +1,4 @@
- # Code authors' usernames:
+ # Code author:
  # gabrielrdw20 
  # "\n"
  # Code in Python
